@@ -15,9 +15,15 @@
 }
 
 .nav-logo p{
+<<<<<<< HEAD
     font-size: 28px;
     font-weight: 600;
     
+=======
+    font-size: 38px;
+    font-weight: 600;
+    font-size: larger;
+>>>>>>> origin/main
    align-content: center;
 
 }
@@ -89,6 +95,7 @@
 .link{
     text-decoration: none;
     color: black;
+<<<<<<< HEAD
 }
 
 
@@ -160,4 +167,6 @@
     .nav-login-cart img{
         width: 30px;
     }
+=======
+>>>>>>> origin/main
 }
